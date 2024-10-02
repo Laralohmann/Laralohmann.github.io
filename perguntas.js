@@ -23,37 +23,36 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Fisica',
+    'Qual é a unidade de medida da força?',
+    'É usado a unidade de Newton (N)'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Química',
+    'Qual o elemento químico de símbolo O?',
+    'o símbolo O representa o oxigênio'
 )
-
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Literatura',
+    'Quem escreveu "Os Lusíadas"?',
+    'Foi Luís de Camões'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'What is the opposite of "big"?',
+    'The opposite of "big" is small'
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Sociologia',
+    'O que é cultura?',
+    'Cultura, conjunto de costumes, crenças e comportamentos de grupo social'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Filosofia',
+    'O que é epistemologia?',
+    'É o estudo do conhecimento e suas origens'
 )
